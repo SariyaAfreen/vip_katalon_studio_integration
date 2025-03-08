@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Amazon_Searching_Validation_Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/Data Driven Testing_TestData/Amazon_DDT_Internal TestData_001</source-url>
+   </source-info>
+   <taken-date>2025-03-05T15:19:28.795+05:30</taken-date>
+   <column-names>
+      <column-name>Category</column-name>
+      <column-name>SearchItem</column-name>
+      <column-name>Pass or Fail</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Electronics",
+      "checked": false
+    },
+    {
+      "value": "Washing machine",
+      "checked": false
+    },
+    {
+      "value": "Searched Successfully",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

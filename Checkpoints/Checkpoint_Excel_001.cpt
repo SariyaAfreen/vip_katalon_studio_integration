@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint_Excel_001</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>../../OneDrive/Desktop/Software Automation Testing VIP/TestData/Checkpoint_Excel.xlsx</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>Sheet1</sheet-name-or-separator>
+      <is-using-relative-path>true</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2025-03-05T15:52:40.084+05:30</taken-date>
+   <column-names>
+      <column-name>Category</column-name>
+      <column-name>SearchItem</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Books",
+      "checked": true
+    },
+    {
+      "value": "Da vinci code",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Books",
+      "checked": true
+    },
+    {
+      "value": "Da vinci",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Books",
+      "checked": true
+    },
+    {
+      "value": "Da 122333",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

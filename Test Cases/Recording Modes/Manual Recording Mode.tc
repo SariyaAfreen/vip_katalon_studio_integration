@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Manual Recording Mode</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>49893b96-a171-42fc-b4f9-bc0a15ed4c74</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4ae46b55-b712-4111-ab6c-e08f553b8b07</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1fe829c0-34f6-462d-9bb1-abc3bda54ce8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4ae46b55-b712-4111-ab6c-e08f553b8b07</id>
+      <masked>false</masked>
+      <name>Category</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1fe829c0-34f6-462d-9bb1-abc3bda54ce8</id>
+      <masked>false</masked>
+      <name>SearchItem</name>
+   </variable>
+</TestCaseEntity>

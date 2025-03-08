@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AmazonTestCase_DDT_InternalData_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5eca521f-3062-4d22-9846-f8926771d5e2</testCaseGuid>
+</TestCaseEntity>
