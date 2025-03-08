@@ -1,0 +1,1 @@
+# vip_katalon_studio_integration
